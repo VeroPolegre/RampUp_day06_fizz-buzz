@@ -52,7 +52,7 @@ if (num) {
 
 function ingresarNum() {
   const resultado = [];
-  while ((numero = parseInt)) {
+  while (true) {
     const numero = parseInt(prompt("Ingrese números"));
     if (numero === 0) {
       break;
