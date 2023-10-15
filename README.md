@@ -1,12 +1,13 @@
-# fizz_buzz
+# RampUp Day06 Exercise: fizz-buzz
 
-Variables
-Condicionales
-Bucles
+Prints all numbers from 1 to 1000 per console, with the exception of all those numbers that are multiples of 3 that instead of printing the number, Fizz will be printed, in numbers that are multiples of 5 Buzz will be printed, and also in numbers that are multiples of 3 and 5 will print FizzBuzz.
 
-Imprime todos los números del 1 al 1000 por consola, con la salvedad de todos aquellos números que sean múltiplos de 3 que en vez de imprimir el número, se imprimirá Fizz, en los números que sean múltiplos de 5 se imprimirá Buzz, y además en los números que sean múltiplos de 3 y de 5 se imprimirá FizzBuzz.
+# order
 
-# orden
+Given an ordered list of integers, square the elements and return the result in order.
+For example, given [-9, -2, 0, 2, 3], returns [0, 4, 4, 9, 81].
 
-Dada una lista ordenada de números enteros, eleva al cuadrado los elementos y proporciona el resultado en orden.
-Por ejemplo, dado [-9, -2, 0, 2, 3], devuelve [0, 4, 4, 9, 81].
+### Languages used:
+| JS |
+
+Completed by [Vero Polegre](https://github.com/VeroPolegre)
